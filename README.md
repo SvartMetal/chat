@@ -5,8 +5,8 @@ Server
 ------
 
 Server based on Akka and Spray.
-Protocol events un/marshalling implemented via xml.
-To enable logging see src/main/resurces/application.conf
+Protocol events marshalling and unmarshalling implemented via native scala xml.
+To enable/disable logging edit src/main/resurces/application.conf
 
 Client
 ------
