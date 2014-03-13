@@ -16,10 +16,10 @@ Simple console client app.
 ### Commands:
 
 Show current user name:
-##### /me
+#####   /me
 Show all users:
-##### /users 
+#####   /users
 Reconnect with new name:
-##### /restart
+#####   /restart
 Exit:
-##### /q
+#####   /q
