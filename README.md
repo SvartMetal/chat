@@ -19,14 +19,18 @@ You can run some commands and chat with your friends!
 ### Commands ###
 
 Show current user name:
-```   /me
+```
+/me
 ```
 Show all users:
-```  /users
+```
+/users
 ```
 Reconnect with new name:
-```  /restart
+```
+/restart
 ```
 Exit:
-```  /q
+```
+/q
 ```
